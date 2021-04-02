@@ -1,2 +1,2 @@
 # java-implementations
-This consists of multiple files implementing code for Java fundamentals
+The files consists of solutions to Educative.io's coding challenges
