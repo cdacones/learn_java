@@ -1,2 +1,2 @@
 # java-implementations
-The files consists of solutions to HackerRank's problem set without using the pre-set code
+The files consists of solutions to Practice-It problems and HackerRank's problem set without using the pre-set code.
